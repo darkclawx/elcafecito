@@ -99,7 +99,7 @@ h1,h2,h3{
     justify-content: flex-end;
 }
 
-/* Header 
+/* Header */
 .header{
     background-image: url(/img/banner.jpg);
     background-size: cover;
@@ -116,7 +116,7 @@ h1,h2,h3{
     margin-top: 5rem;
 
 }
-*/
+
 /* Navegacion */
  
 .nav-bg{
